@@ -6,7 +6,7 @@ remove the react element attribute in jsx
 npm install babel-plugin-remove-jsx-attribute
 ```
 
-can usr like:
+can use like:
 ```
 {
   "presets": ["react"],
