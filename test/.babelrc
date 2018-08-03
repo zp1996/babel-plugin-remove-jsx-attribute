@@ -1,0 +1,9 @@
+{
+  "presets": ["react"],
+  "plugins": [
+    [
+      "remove-jsx-attribute",
+      { "attr": "data-test" }
+    ]
+  ]
+}
